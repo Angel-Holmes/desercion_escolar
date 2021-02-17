@@ -18,3 +18,9 @@ Para lograr tal objetivo planteado, se ha procedido a elaborar un archivo .csv d
 - Si trabaja (trabaja) -> Si: 0    No: 1
 - Si tiene hijos (hijos) -> Si: 0    No: 1
 - Deserción (deserccion) -> Si: 0    No: 1
+
+## Integrantes del proyecto:
+− Caycho Muñoz, Victor
+− Laura Azcona, Martin
+− Montero Mendoza, Max
+− Rivera Salvador, Beder
