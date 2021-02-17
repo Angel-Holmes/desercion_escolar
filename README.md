@@ -20,7 +20,7 @@ Para lograr tal objetivo planteado, se ha procedido a elaborar un archivo .csv d
 - Deserción (deserccion) -> Si: 0    No: 1
 
 ## Integrantes del proyecto:
-− Caycho Muñoz, Victor
-− Laura Azcona, Martin
-− Montero Mendoza, Max
-− Rivera Salvador, Beder
+- Caycho Muñoz, Victor
+- Laura Azcona, Martin
+- Montero Mendoza, Max
+- Rivera Salvador, Beder
